@@ -1,0 +1,17 @@
+{
+  "date": "2026-06-19",
+  "heure_maj": "21:00",
+  "temp_actuelle": 31.9,
+  "ressenti": 29.4,
+  "temp_max_jour": 37.3,
+  "temp_min_jour": 23.8,
+  "humidity": 20.0,
+  "wind_speed": 10.2,
+  "pressure": 1007.9,
+  "cloud_cover": 27.0,
+  "dew_point": 6.1,
+  "precip_jour": 0.0,
+  "rain_jour": 0.0,
+  "radiation_max": 831.0,
+  "weather_code": 1
+}

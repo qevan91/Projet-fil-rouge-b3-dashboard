@@ -1,0 +1,722 @@
+[
+  {
+    "date": "2026-06-19",
+    "tempMax": 31.8,
+    "tempMin": 19.5,
+    "normale": 23.9,
+    "seuilAlerte": 35,
+    "ecartNormale": 7.9
+  },
+  {
+    "date": "2026-06-20",
+    "tempMax": 28.3,
+    "tempMin": 15.7,
+    "normale": 22.8,
+    "seuilAlerte": 35,
+    "ecartNormale": 5.5
+  },
+  {
+    "date": "2026-06-21",
+    "tempMax": 25.6,
+    "tempMin": 15.1,
+    "normale": 23.5,
+    "seuilAlerte": 35,
+    "ecartNormale": 2.1
+  },
+  {
+    "date": "2026-06-22",
+    "tempMax": 24.5,
+    "tempMin": 14.0,
+    "normale": 22.8,
+    "seuilAlerte": 35,
+    "ecartNormale": 1.7
+  },
+  {
+    "date": "2026-06-23",
+    "tempMax": 24.4,
+    "tempMin": 13.6,
+    "normale": 23.3,
+    "seuilAlerte": 35,
+    "ecartNormale": 1.1
+  },
+  {
+    "date": "2026-06-24",
+    "tempMax": 24.2,
+    "tempMin": 13.5,
+    "normale": 23.9,
+    "seuilAlerte": 35,
+    "ecartNormale": 0.3
+  },
+  {
+    "date": "2026-06-25",
+    "tempMax": 23.7,
+    "tempMin": 13.5,
+    "normale": 25.3,
+    "seuilAlerte": 35,
+    "ecartNormale": -1.5
+  },
+  {
+    "date": "2026-06-26",
+    "tempMax": 23.5,
+    "tempMin": 13.3,
+    "normale": 25.3,
+    "seuilAlerte": 35,
+    "ecartNormale": -1.7
+  },
+  {
+    "date": "2026-06-27",
+    "tempMax": 23.3,
+    "tempMin": 13.3,
+    "normale": 25.3,
+    "seuilAlerte": 35,
+    "ecartNormale": -1.9
+  },
+  {
+    "date": "2026-06-28",
+    "tempMax": 23.2,
+    "tempMin": 13.6,
+    "normale": 24.9,
+    "seuilAlerte": 35,
+    "ecartNormale": -1.6
+  },
+  {
+    "date": "2026-06-29",
+    "tempMax": 23.2,
+    "tempMin": 13.7,
+    "normale": 23.6,
+    "seuilAlerte": 35,
+    "ecartNormale": -0.5
+  },
+  {
+    "date": "2026-06-30",
+    "tempMax": 23.0,
+    "tempMin": 13.6,
+    "normale": 24.0,
+    "seuilAlerte": 35,
+    "ecartNormale": -1.0
+  },
+  {
+    "date": "2026-07-01",
+    "tempMax": 22.9,
+    "tempMin": 13.8,
+    "normale": 24.7,
+    "seuilAlerte": 35,
+    "ecartNormale": -1.7
+  },
+  {
+    "date": "2026-07-02",
+    "tempMax": 23.5,
+    "tempMin": 14.4,
+    "normale": 24.6,
+    "seuilAlerte": 35,
+    "ecartNormale": -1.1
+  },
+  {
+    "date": "2026-07-03",
+    "tempMax": 23.7,
+    "tempMin": 14.5,
+    "normale": 23.6,
+    "seuilAlerte": 35,
+    "ecartNormale": 0.1
+  },
+  {
+    "date": "2026-07-04",
+    "tempMax": 23.5,
+    "tempMin": 14.3,
+    "normale": 24.7,
+    "seuilAlerte": 35,
+    "ecartNormale": -1.1
+  },
+  {
+    "date": "2026-07-05",
+    "tempMax": 23.6,
+    "tempMin": 14.3,
+    "normale": 24.4,
+    "seuilAlerte": 35,
+    "ecartNormale": -0.8
+  },
+  {
+    "date": "2026-07-06",
+    "tempMax": 23.7,
+    "tempMin": 14.4,
+    "normale": 24.1,
+    "seuilAlerte": 35,
+    "ecartNormale": -0.5
+  },
+  {
+    "date": "2026-07-07",
+    "tempMax": 23.7,
+    "tempMin": 14.4,
+    "normale": 24.8,
+    "seuilAlerte": 35,
+    "ecartNormale": -1.1
+  },
+  {
+    "date": "2026-07-08",
+    "tempMax": 23.7,
+    "tempMin": 14.5,
+    "normale": 24.8,
+    "seuilAlerte": 35,
+    "ecartNormale": -1.0
+  },
+  {
+    "date": "2026-07-09",
+    "tempMax": 23.8,
+    "tempMin": 14.5,
+    "normale": 25.1,
+    "seuilAlerte": 35,
+    "ecartNormale": -1.3
+  },
+  {
+    "date": "2026-07-10",
+    "tempMax": 23.9,
+    "tempMin": 14.5,
+    "normale": 24.3,
+    "seuilAlerte": 35,
+    "ecartNormale": -0.5
+  },
+  {
+    "date": "2026-07-11",
+    "tempMax": 23.8,
+    "tempMin": 14.6,
+    "normale": 24.9,
+    "seuilAlerte": 35,
+    "ecartNormale": -1.1
+  },
+  {
+    "date": "2026-07-12",
+    "tempMax": 23.9,
+    "tempMin": 14.7,
+    "normale": 23.7,
+    "seuilAlerte": 35,
+    "ecartNormale": 0.3
+  },
+  {
+    "date": "2026-07-13",
+    "tempMax": 23.8,
+    "tempMin": 14.6,
+    "normale": 23.9,
+    "seuilAlerte": 35,
+    "ecartNormale": -0.1
+  },
+  {
+    "date": "2026-07-14",
+    "tempMax": 23.8,
+    "tempMin": 14.6,
+    "normale": 23.9,
+    "seuilAlerte": 35,
+    "ecartNormale": -0.1
+  },
+  {
+    "date": "2026-07-15",
+    "tempMax": 23.8,
+    "tempMin": 14.6,
+    "normale": 24.5,
+    "seuilAlerte": 35,
+    "ecartNormale": -0.6
+  },
+  {
+    "date": "2026-07-16",
+    "tempMax": 23.9,
+    "tempMin": 14.7,
+    "normale": 24.8,
+    "seuilAlerte": 35,
+    "ecartNormale": -0.9
+  },
+  {
+    "date": "2026-07-17",
+    "tempMax": 23.9,
+    "tempMin": 14.8,
+    "normale": 25.9,
+    "seuilAlerte": 35,
+    "ecartNormale": -2.0
+  },
+  {
+    "date": "2026-07-18",
+    "tempMax": 24.0,
+    "tempMin": 14.7,
+    "normale": 28.2,
+    "seuilAlerte": 35,
+    "ecartNormale": -4.2
+  },
+  {
+    "date": "2026-07-19",
+    "tempMax": 24.0,
+    "tempMin": 14.8,
+    "normale": 28.1,
+    "seuilAlerte": 35,
+    "ecartNormale": -4.1
+  },
+  {
+    "date": "2026-07-20",
+    "tempMax": 24.0,
+    "tempMin": 14.7,
+    "normale": 25.4,
+    "seuilAlerte": 35,
+    "ecartNormale": -1.4
+  },
+  {
+    "date": "2026-07-21",
+    "tempMax": 24.0,
+    "tempMin": 14.8,
+    "normale": 25.0,
+    "seuilAlerte": 35,
+    "ecartNormale": -1.0
+  },
+  {
+    "date": "2026-07-22",
+    "tempMax": 24.0,
+    "tempMin": 14.8,
+    "normale": 24.9,
+    "seuilAlerte": 35,
+    "ecartNormale": -0.9
+  },
+  {
+    "date": "2026-07-23",
+    "tempMax": 24.0,
+    "tempMin": 14.8,
+    "normale": 25.7,
+    "seuilAlerte": 35,
+    "ecartNormale": -1.7
+  },
+  {
+    "date": "2026-07-24",
+    "tempMax": 24.1,
+    "tempMin": 14.8,
+    "normale": 25.8,
+    "seuilAlerte": 35,
+    "ecartNormale": -1.7
+  },
+  {
+    "date": "2026-07-25",
+    "tempMax": 24.1,
+    "tempMin": 14.8,
+    "normale": 25.6,
+    "seuilAlerte": 35,
+    "ecartNormale": -1.6
+  },
+  {
+    "date": "2026-07-26",
+    "tempMax": 24.1,
+    "tempMin": 14.8,
+    "normale": 24.9,
+    "seuilAlerte": 35,
+    "ecartNormale": -0.9
+  },
+  {
+    "date": "2026-07-27",
+    "tempMax": 24.0,
+    "tempMin": 14.8,
+    "normale": 24.3,
+    "seuilAlerte": 35,
+    "ecartNormale": -0.3
+  },
+  {
+    "date": "2026-07-28",
+    "tempMax": 24.0,
+    "tempMin": 14.7,
+    "normale": 23.3,
+    "seuilAlerte": 35,
+    "ecartNormale": 0.7
+  },
+  {
+    "date": "2026-07-29",
+    "tempMax": 23.9,
+    "tempMin": 14.6,
+    "normale": 24.0,
+    "seuilAlerte": 35,
+    "ecartNormale": -0.1
+  },
+  {
+    "date": "2026-07-30",
+    "tempMax": 24.0,
+    "tempMin": 14.7,
+    "normale": 24.5,
+    "seuilAlerte": 35,
+    "ecartNormale": -0.5
+  },
+  {
+    "date": "2026-07-31",
+    "tempMax": 24.0,
+    "tempMin": 14.7,
+    "normale": 25.5,
+    "seuilAlerte": 35,
+    "ecartNormale": -1.5
+  },
+  {
+    "date": "2026-08-01",
+    "tempMax": 24.1,
+    "tempMin": 14.7,
+    "normale": 25.7,
+    "seuilAlerte": 35,
+    "ecartNormale": -1.6
+  },
+  {
+    "date": "2026-08-02",
+    "tempMax": 24.1,
+    "tempMin": 14.7,
+    "normale": 25.7,
+    "seuilAlerte": 35,
+    "ecartNormale": -1.6
+  },
+  {
+    "date": "2026-08-03",
+    "tempMax": 24.1,
+    "tempMin": 14.7,
+    "normale": 25.3,
+    "seuilAlerte": 35,
+    "ecartNormale": -1.2
+  },
+  {
+    "date": "2026-08-04",
+    "tempMax": 24.1,
+    "tempMin": 14.7,
+    "normale": 24.6,
+    "seuilAlerte": 35,
+    "ecartNormale": -0.5
+  },
+  {
+    "date": "2026-08-05",
+    "tempMax": 24.0,
+    "tempMin": 14.7,
+    "normale": 24.7,
+    "seuilAlerte": 35,
+    "ecartNormale": -0.7
+  },
+  {
+    "date": "2026-08-06",
+    "tempMax": 24.0,
+    "tempMin": 14.7,
+    "normale": 24.3,
+    "seuilAlerte": 35,
+    "ecartNormale": -0.3
+  },
+  {
+    "date": "2026-08-07",
+    "tempMax": 24.0,
+    "tempMin": 14.6,
+    "normale": 25.6,
+    "seuilAlerte": 35,
+    "ecartNormale": -1.7
+  },
+  {
+    "date": "2026-08-08",
+    "tempMax": 24.1,
+    "tempMin": 14.6,
+    "normale": 25.0,
+    "seuilAlerte": 35,
+    "ecartNormale": -0.9
+  },
+  {
+    "date": "2026-08-09",
+    "tempMax": 24.0,
+    "tempMin": 14.7,
+    "normale": 24.4,
+    "seuilAlerte": 35,
+    "ecartNormale": -0.3
+  },
+  {
+    "date": "2026-08-10",
+    "tempMax": 23.9,
+    "tempMin": 14.6,
+    "normale": 25.1,
+    "seuilAlerte": 35,
+    "ecartNormale": -1.1
+  },
+  {
+    "date": "2026-08-11",
+    "tempMax": 24.0,
+    "tempMin": 14.6,
+    "normale": 26.0,
+    "seuilAlerte": 35,
+    "ecartNormale": -2.0
+  },
+  {
+    "date": "2026-08-12",
+    "tempMax": 24.1,
+    "tempMin": 14.6,
+    "normale": 27.1,
+    "seuilAlerte": 35,
+    "ecartNormale": -3.1
+  },
+  {
+    "date": "2026-08-13",
+    "tempMax": 24.0,
+    "tempMin": 14.6,
+    "normale": 25.3,
+    "seuilAlerte": 35,
+    "ecartNormale": -1.2
+  },
+  {
+    "date": "2026-08-14",
+    "tempMax": 24.1,
+    "tempMin": 14.6,
+    "normale": 24.9,
+    "seuilAlerte": 35,
+    "ecartNormale": -0.8
+  },
+  {
+    "date": "2026-08-15",
+    "tempMax": 24.1,
+    "tempMin": 14.6,
+    "normale": 24.7,
+    "seuilAlerte": 35,
+    "ecartNormale": -0.7
+  },
+  {
+    "date": "2026-08-16",
+    "tempMax": 24.0,
+    "tempMin": 14.6,
+    "normale": 24.8,
+    "seuilAlerte": 35,
+    "ecartNormale": -0.8
+  },
+  {
+    "date": "2026-08-17",
+    "tempMax": 24.0,
+    "tempMin": 14.6,
+    "normale": 23.8,
+    "seuilAlerte": 35,
+    "ecartNormale": 0.2
+  },
+  {
+    "date": "2026-08-18",
+    "tempMax": 24.0,
+    "tempMin": 14.5,
+    "normale": 24.5,
+    "seuilAlerte": 35,
+    "ecartNormale": -0.5
+  },
+  {
+    "date": "2026-08-19",
+    "tempMax": 24.0,
+    "tempMin": 14.6,
+    "normale": 24.3,
+    "seuilAlerte": 35,
+    "ecartNormale": -0.4
+  },
+  {
+    "date": "2026-08-20",
+    "tempMax": 24.0,
+    "tempMin": 14.5,
+    "normale": 24.7,
+    "seuilAlerte": 35,
+    "ecartNormale": -0.7
+  },
+  {
+    "date": "2026-08-21",
+    "tempMax": 24.0,
+    "tempMin": 14.6,
+    "normale": 25.3,
+    "seuilAlerte": 35,
+    "ecartNormale": -1.3
+  },
+  {
+    "date": "2026-08-22",
+    "tempMax": 24.1,
+    "tempMin": 14.6,
+    "normale": 25.5,
+    "seuilAlerte": 35,
+    "ecartNormale": -1.4
+  },
+  {
+    "date": "2026-08-23",
+    "tempMax": 24.0,
+    "tempMin": 14.6,
+    "normale": 25.5,
+    "seuilAlerte": 35,
+    "ecartNormale": -1.5
+  },
+  {
+    "date": "2026-08-24",
+    "tempMax": 24.0,
+    "tempMin": 14.6,
+    "normale": 24.5,
+    "seuilAlerte": 35,
+    "ecartNormale": -0.5
+  },
+  {
+    "date": "2026-08-25",
+    "tempMax": 23.9,
+    "tempMin": 14.6,
+    "normale": 24.1,
+    "seuilAlerte": 35,
+    "ecartNormale": -0.2
+  },
+  {
+    "date": "2026-08-26",
+    "tempMax": 23.9,
+    "tempMin": 14.5,
+    "normale": 24.9,
+    "seuilAlerte": 35,
+    "ecartNormale": -1.0
+  },
+  {
+    "date": "2026-08-27",
+    "tempMax": 23.9,
+    "tempMin": 14.6,
+    "normale": 24.4,
+    "seuilAlerte": 35,
+    "ecartNormale": -0.5
+  },
+  {
+    "date": "2026-08-28",
+    "tempMax": 23.9,
+    "tempMin": 14.6,
+    "normale": 23.9,
+    "seuilAlerte": 35,
+    "ecartNormale": 0.0
+  },
+  {
+    "date": "2026-08-29",
+    "tempMax": 23.8,
+    "tempMin": 14.5,
+    "normale": 23.0,
+    "seuilAlerte": 35,
+    "ecartNormale": 0.8
+  },
+  {
+    "date": "2026-08-30",
+    "tempMax": 23.7,
+    "tempMin": 14.3,
+    "normale": 22.6,
+    "seuilAlerte": 35,
+    "ecartNormale": 1.2
+  },
+  {
+    "date": "2026-08-31",
+    "tempMax": 23.5,
+    "tempMin": 14.1,
+    "normale": 22.6,
+    "seuilAlerte": 35,
+    "ecartNormale": 0.9
+  },
+  {
+    "date": "2026-09-01",
+    "tempMax": 23.1,
+    "tempMin": 14.0,
+    "normale": 22.5,
+    "seuilAlerte": 35,
+    "ecartNormale": 0.5
+  },
+  {
+    "date": "2026-09-02",
+    "tempMax": 22.4,
+    "tempMin": 12.8,
+    "normale": 23.0,
+    "seuilAlerte": 35,
+    "ecartNormale": -0.6
+  },
+  {
+    "date": "2026-09-03",
+    "tempMax": 21.9,
+    "tempMin": 12.6,
+    "normale": 24.3,
+    "seuilAlerte": 35,
+    "ecartNormale": -2.3
+  },
+  {
+    "date": "2026-09-04",
+    "tempMax": 21.9,
+    "tempMin": 12.4,
+    "normale": 23.9,
+    "seuilAlerte": 35,
+    "ecartNormale": -2.0
+  },
+  {
+    "date": "2026-09-05",
+    "tempMax": 21.7,
+    "tempMin": 12.3,
+    "normale": 23.2,
+    "seuilAlerte": 35,
+    "ecartNormale": -1.6
+  },
+  {
+    "date": "2026-09-06",
+    "tempMax": 21.4,
+    "tempMin": 12.3,
+    "normale": 23.0,
+    "seuilAlerte": 35,
+    "ecartNormale": -1.6
+  },
+  {
+    "date": "2026-09-07",
+    "tempMax": 21.3,
+    "tempMin": 12.2,
+    "normale": 23.3,
+    "seuilAlerte": 35,
+    "ecartNormale": -2.0
+  },
+  {
+    "date": "2026-09-08",
+    "tempMax": 21.2,
+    "tempMin": 12.4,
+    "normale": 23.0,
+    "seuilAlerte": 35,
+    "ecartNormale": -1.7
+  },
+  {
+    "date": "2026-09-09",
+    "tempMax": 21.2,
+    "tempMin": 12.2,
+    "normale": 23.4,
+    "seuilAlerte": 35,
+    "ecartNormale": -2.3
+  },
+  {
+    "date": "2026-09-10",
+    "tempMax": 21.2,
+    "tempMin": 12.3,
+    "normale": 23.0,
+    "seuilAlerte": 35,
+    "ecartNormale": -1.8
+  },
+  {
+    "date": "2026-09-11",
+    "tempMax": 21.2,
+    "tempMin": 12.3,
+    "normale": 21.6,
+    "seuilAlerte": 35,
+    "ecartNormale": -0.3
+  },
+  {
+    "date": "2026-09-12",
+    "tempMax": 21.3,
+    "tempMin": 12.3,
+    "normale": 21.4,
+    "seuilAlerte": 35,
+    "ecartNormale": -0.1
+  },
+  {
+    "date": "2026-09-13",
+    "tempMax": 21.3,
+    "tempMin": 12.3,
+    "normale": 21.5,
+    "seuilAlerte": 35,
+    "ecartNormale": -0.2
+  },
+  {
+    "date": "2026-09-14",
+    "tempMax": 21.3,
+    "tempMin": 12.2,
+    "normale": 21.7,
+    "seuilAlerte": 35,
+    "ecartNormale": -0.5
+  },
+  {
+    "date": "2026-09-15",
+    "tempMax": 21.3,
+    "tempMin": 12.3,
+    "normale": 21.7,
+    "seuilAlerte": 35,
+    "ecartNormale": -0.4
+  },
+  {
+    "date": "2026-09-16",
+    "tempMax": 21.2,
+    "tempMin": 12.2,
+    "normale": 21.5,
+    "seuilAlerte": 35,
+    "ecartNormale": -0.3
+  }
+]
